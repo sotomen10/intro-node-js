@@ -1,0 +1,22 @@
+{
+  "name": "my-proyect",
+  "version": "1.0.0",
+  "description": "\"introducción node.js\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sotomen10/intro-node-js.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Alexis Soto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sotomen10/intro-node-js/issues"
+  },
+  "homepage": "https://github.com/sotomen10/intro-node-js#readme"
+}
